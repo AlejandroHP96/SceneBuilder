@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>aprendiendofxml</name>
+	<name>AprendiendoFXML</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1635250399122</id>
+			<id>1635256353321</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

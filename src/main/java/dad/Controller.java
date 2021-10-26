@@ -63,6 +63,7 @@ public class Controller implements Initializable {
         switch (accion.get()) {
             case "Saludar":
                 alert.setHeaderText("Hola");
+                alert.show();
                 break;
             case "Despedir":
                 alert.setHeaderText("Adios");
